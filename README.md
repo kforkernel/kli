@@ -11,8 +11,7 @@ A simple command-line tool written in Rust for creating lists and saving them to
 
 ## Requirements
 
-* [Rust](https://rust-lang.org)
-* Cargo
+* [Rust & Cargo](https://rust-lang.org)
 
 ## Installation
 
@@ -60,4 +59,5 @@ Coffee
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is under the kforkernel Use License (KUL) v1.0.
+For more details, read [LICENSE.md](LICENSE.md).
